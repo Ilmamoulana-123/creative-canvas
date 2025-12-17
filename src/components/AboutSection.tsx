@@ -60,7 +60,11 @@ const AboutSection = () => {
   };
 
   const aboutText =
-    "I'm a passionate graphic designer with a keen eye for detail and a love for creating visual stories that captivate and inspire. With expertise in logo design, social media graphics, and comprehensive brand identity development, I help businesses establish a strong visual presence that resonates with their audience.";
+    "I am a creative and motivated student pursuing a Degree in Applied Information Technology at SLTC Research University and currently working as a Graphic Design Intern. I specialize in creating engaging social media posts, posters, and branding visuals.
+
+With certified training in Office Packages and Graphic Design, I enjoy exploring new tools and design trends. I focus on delivering clean, modern, and impactful designs that communicate ideas clearly.
+
+I am eager to grow as both a designer and an IT professional while contributing creative value to every team I work with.";
 
   const words = aboutText.split(" ");
 
