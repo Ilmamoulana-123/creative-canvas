@@ -13,19 +13,19 @@ const projects = [
   },
   {
     id: 2,
-    title: "Social Media Campaign",
+    title: "Burger Promotional Poster",
     category: "Social Media",
-    description: "Engaging social media graphics for a lifestyle brand launch.",
+    description: "A vibrant promotional poster highlighting a limited-time burger offer with bold colors and clear call-to-action.",
     color: "from-violet to-violet-dark",
-    image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&h=400&fit=crop",
+    image: "D:\Images\Photoshop",
   },
   {
     id: 3,
-    title: "Modern Logo Design",
+    title: "Educational Logo Design",
     category: "Logos",
-    description: "Minimalist logo design for a tech startup.",
+    description: "Minimalist logo design for a course startup.",
     color: "from-coral-light to-violet-light",
-    image: "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=600&h=400&fit=crop",
+    image: "C:\Users\USER\Downloads",
   },
   {
     id: 4,
@@ -45,11 +45,11 @@ const projects = [
   },
   {
     id: 6,
-    title: "Corporate Identity",
+    title: "Academic Logo Design",
     category: "Logos",
-    description: "Professional logo and stationery design for consulting firm.",
+    description: "Modern and clean logo for an eductional institute.",
     color: "from-violet-light to-coral-light",
-    image: "https://images.unsplash.com/photo-1634942537034-2531766767d1?w=600&h=400&fit=crop",
+    image: "D:\Images\Photoshop",
   },
 ];
 
